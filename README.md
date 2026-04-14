@@ -29,12 +29,7 @@ classDiagram
     Aeroporto o-- Aeronave : agrega
     Aeroporto o-- Piloto : agrega
     Aeronave o-- Passageiro : agrega
-
-
-
-
-
-
+```
 
 
 
